@@ -1,2 +1,6 @@
+<<<<<<< Updated upstream
 1fd
 재수정
+=======
+1fd
+>>>>>>> Stashed changes
